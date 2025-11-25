@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://CreationButton.gd" type="Script" id=1]
+
+[node name="CreationButton" type="Button"]
+margin_left = 87.0
+margin_top = 92.0
+margin_right = 99.0
+margin_bottom = 112.0
+script = ExtResource( 1 )
